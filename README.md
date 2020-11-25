@@ -1,6 +1,6 @@
 ## Introduction
 
-This project is the backend for Movies on rent React app, an imaginary video rental app. This application is developed in Node.js.
+This project is the backend for Movies On Rent React app, an imaginary video rental app. This application is developed in Node.js.
 
 ## Setup
 
