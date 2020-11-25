@@ -1,12 +1,6 @@
 ## Introduction
 
-This project is the backend of Vidly, an imaginary video rental app. I've used Vidly as an example in several of my online programming courses, such as:
-
-- https://codewithmosh.com/p/mastering-react
-- https://codewithmosh.com/p/the-complete-node-js-course
-- https://codewithmosh.com/p/asp-net-mvc
-
-This is the implementation of Vidly in Node.js.
+This project is the backend for Movies on rent React app, an imaginary video rental app. This application is developed in Node.js.
 
 ## Setup
 
@@ -56,8 +50,8 @@ If you look at config/default.json, you'll see a property called jwtPrivateKey. 
 
 On Mac:
 
-    export vidly_jwtPrivateKey=yourSecureKey
+    export mor_jwtPrivateKey=yourSecureKey
 
 On Windows:
 
-    set vidly_jwtPrivateKey=yourSecureKey
+    set mor_jwtPrivateKey=yourSecureKey
